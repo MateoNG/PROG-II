@@ -1,0 +1,350 @@
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe.config
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Projects\Visual Studio 2022\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe.config
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\EnvDTE.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\stdole.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmReporteStock.resources
+C:\Users\Andres\Repo\projects\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CopyComplete
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe.config
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\EnvDTE.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\stdole.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmReporteStock.resources
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CopyComplete
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Repo\Prog2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe.config
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\EnvDTE.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\stdole.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmReporteStock.resources
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CopyComplete
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\Andres\Repo\Programacion2\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmReporteStock.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe.config
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\EnvDTE.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\stdole.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso()\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CopyComplete
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmReporteStock.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe.config
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\OrdenesRepasoParcial1.pdb
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\EnvDTE.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\stdole.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.FrmOrdenes.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmPrincipal.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Presentacion.FrmReporteStock.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.Properties.Resources.resources
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.csproj.CopyComplete
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.exe
+C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\PROGII-1er-Parcial-Repaso(Completo)\OrdenesRepasoParcial1\obj\Debug\OrdenesRepasoParcial1.pdb
