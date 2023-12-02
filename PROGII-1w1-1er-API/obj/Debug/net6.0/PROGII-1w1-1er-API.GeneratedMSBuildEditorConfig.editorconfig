@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PROGII_1w1_1er_API
+build_property.RootNamespace = PROGII_1w1_1er_API
+build_property.ProjectDir = C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\Parte 2\PROGII-1w1-1er-API\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\User\OneDrive\Escritorio\UTN-TUP\PROG II\Parte 2\PROGII-1w1-1er-API
+build_property._RazorSourceGeneratorDebug = 
